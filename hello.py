@@ -6,4 +6,3 @@ def welcome():
 
 
 welcome()
-    
